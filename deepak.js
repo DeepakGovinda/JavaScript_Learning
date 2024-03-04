@@ -2,7 +2,7 @@
 //     if (!ladki1) {
 //         console.log("go to ladki 2")
 //     } else {
-//         console.log("gaand maraao", ladki2)
+//         console.log(" maraao", ladki2)
 //     }
 // }
 
